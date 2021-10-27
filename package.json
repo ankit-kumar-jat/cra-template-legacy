@@ -1,0 +1,29 @@
+{
+  "name": "cra-template-redux-thunk",
+  "version": "1.0.0",
+  "description": "The base redux-thunk template for create-react-app with routes and axios",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankit-kumar-jat/cra-template-redux-thunk.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "react-redux",
+    "redux-thunk"
+  ],
+  "author": "Ankit Kumar Jat",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "bugs": {
+    "url": "https://github.com/ankit-kumar-jat/cra-template-redux-thunk/issues"
+  },
+  "homepage": "https://github.com/ankit-kumar-jat/cra-template-redux-thunk#readme",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
