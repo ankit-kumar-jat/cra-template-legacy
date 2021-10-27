@@ -1,1 +1,1 @@
-# CRA-TEMPLATE-REDUX-THUNK
+# cra-template-legacy

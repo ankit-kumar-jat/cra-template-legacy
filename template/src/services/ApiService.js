@@ -1,6 +1,6 @@
 import axios from "axios";
 
-axios.defaults.baseURL = process.env.REACT_APP_API_BASE_URL || "http://localhost:500";
+axios.defaults.baseURL = process.env.REACT_APP_API_BASE_URL || "";
 axios.interceptors.request.use((config) => {
   const innerConfig = config;
 	// get auth token and assign it to token
